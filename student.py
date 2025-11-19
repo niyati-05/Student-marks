@@ -12,5 +12,5 @@ else:
     marks1 = "18" 
     marks2 = "20"
 
-    average_score = (int(marks1) + int(marks2)) / 2
-    print(f"Average internal score is {average_score}")
+average_score = (int(marks1) + int(marks2)) / 2
+print(f"Average internal score is {average_score}")
